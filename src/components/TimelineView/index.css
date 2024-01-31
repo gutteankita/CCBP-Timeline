@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.chrono-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.top-heading {
+  color: #171f46;
+  font-weight: 500;
+}
+.ccbp-heading {
+  color: #2b237c;
+}

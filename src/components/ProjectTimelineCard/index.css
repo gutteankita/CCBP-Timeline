@@ -1,0 +1,15 @@
+/* Write your CSS here */
+
+.img {
+  height: 100%;
+  width: 100%;
+}
+
+.visit-link {
+  text-decoration: none;
+  border-style: none;
+  border-radius: 5px;
+  color: #0967d2;
+  font-size: 18px;
+  font-weight: bold;
+}
